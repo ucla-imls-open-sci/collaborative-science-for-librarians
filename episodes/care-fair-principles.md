@@ -29,7 +29,7 @@ Next, we will work towards acquiring the knowledge and tools required to promote
 
 Lastly, we will acquaint ourselves with the CARE Principles, which highlight ethical responsibilities and make valuable contributions to a more accessible and inclusive open science ecosystem.
 
-## Digital accesibility in open science
+## Digital accessibility in open science
 
 In educational and research institutions, groups are characterized by a diverse range of cultural backgrounds, gender identities, native languages, socioeconomic statuses, ages, abilities, among other attributes. Individuals can experience multiple forms of discrimination or privilege simultaneously, based on these intersecting social identities.  
 
@@ -55,7 +55,7 @@ Some Latin American estimations:
 
 Digital accessibility ensures that technologies and information are available and effectively usable by all individuals, including those with disabilities. Its promotion fosters autonomy, social inclusion, and equal opportunities in the digital society. It benefits individuals with disabilities, older adults, those with limited technological literacy, and those who rely on assistive devices.
 
-### Promoting digital accesibility in research
+### Promoting digital accessibility in research
 
 Librarians play a crucial role in improving digital accessibility by providing support, resources, and guidance. Let's start by identifying some key elements of digital accessibility:
 
